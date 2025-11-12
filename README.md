@@ -1,7 +1,6 @@
 # 4.Execution_of_NetworkCommands
-## NAME : GAUTHAM KRISHNA S
-## REGISTER NUMBER : 212223240036
-
+## NAME : Nishanth R S
+## REGISTER NUMBER : 212224040223
 ## AIM :Use of Network commands in Real Time environment
 ## Software : 
 Command Prompt And Network Protocol Analyzer
